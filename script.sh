@@ -14,4 +14,5 @@ echo "================================"
 echo "Build completed successfully!"
 echo "================================"
 echo "Automatic GitHub webhook test successful!"
+echo "Email notification test successful!"
 
